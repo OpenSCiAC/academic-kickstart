@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: SCiAC
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Sociedad para la Ciencia Abierta y la Conservación de la Biodiversidad
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Somos una organización de la sociedad civil, sin ánimo de lucro que promueve las prácticas de ciencia abierta y la investigación participativa en Latinoamérica.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Ciencia Abierta
+- Investigación Participativa
+- Justicia Epistémica
 
 education:
   courses:
@@ -70,6 +70,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+La Ciencia Abierta es la práctica científica que fomenta la transparencia, reproducibilidad, disponibilidad y accesibilidad de todos los elementos y herramientas usadas durante los procesos de investigación, aprovechando el uso de los recursos digitales. De esta manera la producción científica y sus procesos están liberados para que el conocimiento generado tenga un mayor impacto en el desarrollo de nuestras sociedades.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Esta práctica científifica cobra relevancia ante la crisis económica, social y ambiental a la que nos enfrentamos actualmente. La capacidad de respuesta a estas crisis dependerá del conocimiento científico producido y su disponibilidad, así como de procesos de investigación colaborativos y transparentes.
+
+La práctica de la Ciencia Abierta es importante para todos los campos del conocimiento, pero su aplicación es urgente para las causas comunes, entendidas aquí como algunos campos del conocimiento que son (o deberían ser) de interés global, dado que son necesarios para asegurar el bienestar humano. Entre las causas comunes podemos nombrar el desarrollo biomédico, la conservación de la vida silvestre y el cambio climático global.
+
+Aquí presentamos la iniciativa Sharing to Save: Ciencia Abierta para la Conservación de la Naturaleza, una iniciativa que busca alfabetizar a los científicos de la conservación en la práctica de la Ciencia Abierta, con el fin de que el conocimiento generado tenga mayor impacto en las urgentes medidas de conservación que debemos tomar, ante la crisis ambiental a la que nos enfrentamos a nivel global. 
