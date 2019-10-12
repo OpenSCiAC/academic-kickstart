@@ -14,28 +14,22 @@ role: Sociedad para la Ciencia Abierta y la Conservación de la Biodiversidad
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Somos una organización de la sociedad civil, sin ánimo de lucro que promueve las prácticas de ciencia abierta y la investigación participativa en Latinoamérica.
 
-interests:
+Intereses:
 - Ciencia Abierta
 - Investigación Participativa
 - Justicia Epistémica
 
-education:
+Objetivos:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Impulsar prácticas de Ciencia Abierta
+  - course: Mediar procesos de Investigación Participativa
+  - course: Promover la Justicia Epistémica
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:opensciac@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/SCiAC_LatAm
@@ -70,10 +64,6 @@ user_groups:
 - Visitors
 ---
 
-La Ciencia Abierta es la práctica científica que fomenta la transparencia, reproducibilidad, disponibilidad y accesibilidad de todos los elementos y herramientas usadas durante los procesos de investigación, aprovechando el uso de los recursos digitales. De esta manera la producción científica y sus procesos están liberados para que el conocimiento generado tenga un mayor impacto en el desarrollo de nuestras sociedades.
+La Ciencia Abierta es la práctica científica que fomenta la transparencia, reproducibilidad, disponibilidad y accesibilidad de los elementos y herramientas que constituyen los procesos de investigación, aprovechando el uso de los recursos digitales y el trabajo en redes de colaboración.
 
-Esta práctica científifica cobra relevancia ante la crisis económica, social y ambiental a la que nos enfrentamos actualmente. La capacidad de respuesta a estas crisis dependerá del conocimiento científico producido y su disponibilidad, así como de procesos de investigación colaborativos y transparentes.
-
-La práctica de la Ciencia Abierta es importante para todos los campos del conocimiento, pero su aplicación es urgente para las causas comunes, entendidas aquí como algunos campos del conocimiento que son (o deberían ser) de interés global, dado que son necesarios para asegurar el bienestar humano. Entre las causas comunes podemos nombrar el desarrollo biomédico, la conservación de la vida silvestre y el cambio climático global.
-
-Aquí presentamos la iniciativa Sharing to Save: Ciencia Abierta para la Conservación de la Naturaleza, una iniciativa que busca alfabetizar a los científicos de la conservación en la práctica de la Ciencia Abierta, con el fin de que el conocimiento generado tenga mayor impacto en las urgentes medidas de conservación que debemos tomar, ante la crisis ambiental a la que nos enfrentamos a nivel global. 
+De esta manera la producción científica y sus elementos están liberados para democratizar el acceso y producción del conocimiento, de manera que pueda impactar en el bienestar de nuestras sociedades. 
