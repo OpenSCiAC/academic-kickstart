@@ -60,8 +60,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
-- Visitors
+- Investigadores(as)
+- Asociados
+- Estudiantes
 ---
 
 La Ciencia Abierta es la práctica científica que fomenta la transparencia, reproducibilidad, disponibilidad y accesibilidad de los elementos y herramientas que constituyen los procesos de investigación, aprovechando el uso de los recursos digitales y el trabajo en redes de colaboración.
