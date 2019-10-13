@@ -1,16 +1,16 @@
 ---
 # Display name
-name: SCiAC
+name: Diego A. Gómez Hoyos
 
 # Username (this should match the folder name)
 authors:
-- admin
+- investigadores(as)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Sociedad para la Ciencia Abierta y la Conservación de la Biodiversidad
+role: Director
 
 # Organizations/Affiliations
 organizations:
@@ -18,18 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Somos una organización de la sociedad civil, sin ánimo de lucro que promueve las prácticas de ciencia abierta y la investigación participativa en Latinoamérica.
+bio: Biólogo y MSc. Manejo de Vida Silvestre. Sus intereses son reproducibilidad en ciencia e investigación participativa
 
 Intereses:
 - Ciencia Abierta
 - Investigación Participativa
-- Justicia Epistémica
-
-Objetivos:
-  courses:
-  - course: Impulsar prácticas de Ciencia Abierta
-  - course: Mediar procesos de Investigación Participativa
-  - course: Promover la Justicia Epistémica
+- Conservación de Vida Silvestre
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -38,16 +32,16 @@ Objetivos:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:opensciac@gmail.com".
+  link: '#contact'  # For a direct email link, use "mailto:biodiego88@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/SCiAC_LatAm
+  link: https://twitter.com/diegogomezhoyos
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=0VrlQF4AAAAJ&hl=es
 - icon: github
   icon_pack: fab
-  link: https://github.com/OpenSCiAC
+  link: https://github.com/biodiego88
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -61,10 +55,4 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Investigadores(as)
-- Asociados
-- Estudiantes
 ---
-
-La Ciencia Abierta es la práctica científica que fomenta la transparencia, reproducibilidad, disponibilidad y accesibilidad de los elementos y herramientas que constituyen los procesos de investigación, aprovechando el uso de los recursos digitales y el trabajo en redes de colaboración.
-
-De esta manera la producción científica y sus elementos están liberados para democratizar el acceso y producción del conocimiento, de manera que pueda impactar en el bienestar de nuestras sociedades. 
