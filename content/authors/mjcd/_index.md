@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Diego A. Gómez Hoyos
+name: Maria José Camacho Durán
 
 # Username (this should match the folder name)
 authors:
-- investigadores(as)
+- estudiantes
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Director
+role: Fortalecimiento Programa de Investigación Participativa
 
 # Organizations/Affiliations
 organizations:
@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Biólogo y MSc. Manejo de Vida Silvestre. Sus intereses son reproducibilidad en ciencia e investigación participativa
+bio: Estudiante de biología y ecología de la Pontificia Universidad Javeriana de Colombia
 
 Intereses:
-- Ciencia Abierta
-- Investigación Participativa
+- Ecología
+- Ecología del Paisaje
 - Conservación de Vida Silvestre
 
 # Social/Academic Networking
@@ -32,16 +32,16 @@ Intereses:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:biodiego88@gmail.com".
+  link: '#contact'  # For a direct email link, use "mailto:camacho_m@javeriana.edu.co".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/diegogomezhoyos
+  link: https://twitter.com/MariaJo10631442
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=0VrlQF4AAAAJ&hl=es
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/biodiego88
+  link: https://github.com/mariajcadu28
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -54,5 +54,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Investigadores(as)
+- Estudiantes
 ---
