@@ -14,8 +14,8 @@ role: Director
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: ProCAT Internacional
+  url: "http://procat-conservation.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Biólogo y MSc. Manejo de Vida Silvestre. Sus intereses son reproducibilidad en ciencia e investigación participativa
@@ -56,3 +56,4 @@ email: ""
 user_groups:
 - Investigadores(as)
 ---
+Biólogo y MSc. Manejo de Vida Silvestre. Sus intereses son reproducibilidad en ciencia e investigación participativa
