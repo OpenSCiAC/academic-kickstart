@@ -4,7 +4,7 @@ name: Rocío Seisdedos de Vergara
 
 # Username (this should match the folder name)
 authors:
-- rsv
+- Investigadores(as)
 
 # Is this the primary user of the site?
 superuser: true
