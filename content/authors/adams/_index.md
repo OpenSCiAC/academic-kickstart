@@ -13,8 +13,8 @@ superuser: false
 role: Investigador local
 
 # Organizations/Affiliations
-organizations: Fomento del Turismo Rural en el Distrito de Pittier Coto Brus
-- name: 
+organizations: 
+- name: Fomento del Turismo Rural en el Distrito de Pittier Coto Brus
   url: "https://www.facebook.com/Fomento-del-turismo-rural-en-el-distrito-de-Pittier-Coto-Brus-155887561222919/?__tn__=%2Cd%2CP-R&eid=ARDRh8YjhEFeA93QuPF9_e3dmatGeO5iRDQJGxbZUsv5641YoXcJkgrNSbY-F75XZ-4r9cbSZ0V_Clvo"
 
 # Short bio (displayed in user profile at end of posts)
