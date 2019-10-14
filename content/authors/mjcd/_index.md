@@ -56,3 +56,6 @@ email: ""
 user_groups:
 - Investigadores(as)
 ---
+
+
+Maria José es estudiante de biología y ecología de la Pontificia Universidad Javeriana de Bogotá, Colombia. Ella ha apoyado el programa de Investigación Participativa para la conservación en la cuenca del río Cotón en Coto Brus. Sus intereses incluyen la ecología y acústica del paisaje, la herpetología y la investigación participativa. 
