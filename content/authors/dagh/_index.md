@@ -14,8 +14,8 @@ role: Director
 
 # Organizations/Affiliations
 organizations:
-- name: ProCAT Internacional
-  url: "http://procat-conservation.org/"
+- name: SCiAC
+  url: "https://ecstatic-wiles-0d81a8.netlify.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Biólogo y MSc. Manejo de Vida Silvestre. Sus intereses son reproducibilidad en ciencia e investigación participativa
