@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Kerlyn Jiménez
+name: Kerlyn Jiménez Corrales
 
 # Username (this should match the folder name)
 authors:
