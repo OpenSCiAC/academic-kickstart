@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Diego A. Gómez Hoyos
+name: Kerlyn Jiménez
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Director
+role: Investigadora local
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Biólogo y MSc. Manejo de Vida Silvestre. Sus intereses son reproducibilidad en ciencia e investigación participativa
+bio: Manejo de recursos naturales
 
 Intereses:
 - Ciencia Abierta
@@ -32,16 +32,16 @@ Intereses:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:biodiego88@gmail.com".
+  link: '#contact'  # For a direct email link, use "mailto:kerlynnajico@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/diegogomezhoyos
+  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=0VrlQF4AAAAJ&hl=es
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/biodiego88
+  link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
